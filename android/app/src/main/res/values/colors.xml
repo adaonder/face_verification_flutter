@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#8B0900</color>
+    <color name="colorAccent">#FF0000</color>
+    <color name="successColor">#009245</color>
+    <color name="failColor">#FF0000</color>
+    <color name="bgColor">#B96F6A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="color_revision">#eb9e48</color>
+
+    <color name="hr_colorPrimary">#870f4e</color>
+    <color name="hr_colorPrimary_light">#A12164</color>
+    <color name="hr_colorPrimaryDark">#8B0900</color>
+    <color name="hr_colorPrimaryLight">#B96F6A</color>
+
+
+    <color name="calendar_highlighted_days_labels_color">#02B800</color>
+    <color name="calendar_disabled_days_labels_color">#59FF0000</color>
+    <color name="calendar_days_labels_color">#037000</color>
+
+    <color name="half_black">#EBEBEB</color>
+    <color name="offday_color_gray">#333333</color>
+    <color name="color_break_day">#FFA500</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="selected">#4DFFFFFF</color>
+    <color name="gray6">#D5D5D5</color>
+    <color name="gray5">#555555</color>
+    <color name="gray_line">#C8C8C8</color>
+    <color name="gray_light">#F1F1F1</color>
+    <color name="white_t10">#33F1F1F1</color>
+    <color name="light_gray">#404040</color>
+    <color name="light_gray_45">#454545</color>
+    <color name="light_gray_9A">#9A9A9A</color>
+    <color name="light_gray_70">#707070</color>
+    <color name="light_gray_C">#CCCCCC</color>
+    <color name="light_gray_f0">#F0F0F0</color>
+    <color name="light_gray_f5">#f5f5f5</color>
+    <color name="light_gray_2d">#2d2d2d</color>
+    <color name="lowe_gray">#D8D8D8</color>
+    <color name="dark_gray_43">#434343</color>
+    <color name="green">#51b450</color>
+    <color name="light_green">#A2FFA2</color>
+    <color name="orange">#FF9500</color>
+
+    <color name="high_blue">#2196F3</color>
+    <color name="titleTextColor">#464849</color>
+    <color name="blackAlpha40">#66000000</color>
+    <color name="blackAlpha50">#80000000</color>
+
+    <color name="colorWhiteAlpha20">#40FFFFFF</color>
+
+    <color name="colorKPI">#51b450</color>
+
+
+    <color name="color_tech_sign_red_id_error">#DA4545</color>
+    <color name="color_tech_sign_mid_header">#804651</color>
+
+
+    <color name="color_expense_progress">#009F48</color>
+    <color name="color_survey_bar">#FF9C9C</color>
+
+    <color name="colorPerformanceState1">#FF0000</color>
+    <color name="colorPerformanceState2">#F17406</color>
+    <color name="colorPerformanceState3">#FFDD00</color>
+    <color name="colorPerformanceState4">#209E26</color>
+
+
+    <!--Table View-->
+    <color name="table_view_selected_background_color">#f2f2f2</color>
+    <color name="table_view_unselected_background_color">#fff</color>
+    <color name="table_view_shadow_background_color">#EDEDED</color>
+    <color name="table_view_unselected_header_background_color">#fff</color>
+
+    <color name="table_view_unselected_text_color">#555</color>
+    <color name="table_view_selected_text_color">#444</color>
+    <color name="table_view_separator_color">#f2f2f2</color>
+
+
+    <color name="color_green">#4CAF50</color>
+    <color name="color_tertiary">#555</color>
+</resources>
